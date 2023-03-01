@@ -1,6 +1,5 @@
-import { configureStore, AnyAction } from "@reduxjs/toolkit";
+import { configureStore } from "@reduxjs/toolkit";
 import { myReducer } from "./reducers";
-import { ActionsTypes, MyStateType } from "./types";
 
 const store = configureStore({
   reducer: {

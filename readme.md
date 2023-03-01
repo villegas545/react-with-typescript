@@ -74,4 +74,4 @@
     `npm install redux react-redux @types/react-redux redux-thunk @types/redux-thunk`
     `npm install @reduxjs/toolkit`
 
-13. Iniciar repositorio, y agregar en el gitignore el .env
+13. Iniciar repositorio git, y agregar en el gitignore el .env
